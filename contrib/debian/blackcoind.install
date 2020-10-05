@@ -1,2 +1,0 @@
-debian/bin/bitcoinhedged usr/bin
-src/bitcoinhedged usr/lib/bitcoinhedge
