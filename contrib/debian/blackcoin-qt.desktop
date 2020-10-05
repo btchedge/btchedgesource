@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BitcoinHedge
+Comment=BitcoinHedge P2P Cryptocurrency
+Comment[fr]=BitcoinHedge, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BitcoinHedge, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/bitcoinhedge-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/bitcoinhedge;
+Categories=Office;
